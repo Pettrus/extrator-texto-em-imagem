@@ -48,3 +48,5 @@ And more text. And more text.
 And more text. And more text. And more text. And more text. And more
 text. And more text. And more text. Even more. Continued on page 2
 ```
+# Créditos
+Não teria conseguido otimizar a leitura se não fosse esse [post](https://github.com/tesseract-ocr/tesseract/wiki/ImproveQuality) feito pelo próprio Tesseract sobre otimização de imagem
