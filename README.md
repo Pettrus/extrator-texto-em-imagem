@@ -10,7 +10,7 @@ Script simples em python para extrair textos de imagens usando Tesseract e OpenC
 
 # Reconhecimento em português
 Caso esteja usando linux, basta executar o comando abaixo para que o tesseract reconheça textos em português\
-`sudo apt-get install tesseract-ocr-porv`
+`sudo apt-get install tesseract-ocr-por`
 
 # Possível problema e como resolvê-lo
 Possívelmente quando você tentar usar o wand para pdf, você irá encontrar o seguinte erro:\
